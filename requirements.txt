@@ -1,5 +1,10 @@
-yolov5
-torchvision==0.11.3
+Flask
+opencv-python
 numpy==1.23.1
 pillow==9.5.0
+torch
+torchvision==0.11.3
+ultralytics
+deepface
+gunicorn
 Ipython
