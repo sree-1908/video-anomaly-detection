@@ -1,7 +1,7 @@
 Flask
 opencv-python
 numpy
-pillow==9.5.0
+pillow==11.1.0
 torch
 torchvision
 ultralytics
